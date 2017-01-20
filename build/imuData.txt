@@ -1,0 +1,284 @@
+Angular velocity x y z 0.0610352 0.427246 0 Temperature 31.3235
+Angle x y z -7.92664 2.30164 138.922 Temperature 31.3235
+Acceleration x y z -0.0390625 -0.132812 0.952637 Temperature 31.3176
+Angular velocity x y z -0.12207 -0.12207 0 Temperature 31.3176
+Angle x y z -7.92664 2.30164 138.922 Temperature 31.3176
+Acceleration x y z -0.0385742 -0.134766 0.967773 Temperature 31.3147
+Angular velocity x y z 0 0 -0.0610352 Temperature 31.3147
+Angle x y z -7.92664 2.30164 138.922 Temperature 31.3147
+Acceleration x y z -0.0405273 -0.134277 0.958984 Temperature 31.3206
+Angular velocity x y z 0.12207 0.183105 0 Temperature 31.3206
+Angle x y z -7.92664 2.30164 138.922 Temperature 31.3206
+Angular velocity x y z -0.0610352 -0.305176 0 Temperature 31.3324
+Angle x y z -7.92664 2.29614 138.922 Temperature 31.3324
+Acceleration x y z -0.0371094 -0.131348 0.955566 Temperature 31.3382
+Angular velocity x y z 0.0610352 0.183105 0.12207 Temperature 31.3382
+Angle x y z -7.92664 2.30164 138.922 Temperature 31.3382
+Acceleration x y z -0.0371094 -0.133301 0.955078 Temperature 31.3176
+Angular velocity x y z -0.0610352 -0.244141 -0.0610352 Temperature 31.3176
+Angle x y z -7.92664 2.29614 138.922 Temperature 31.3176
+Acceleration x y z -0.0385742 -0.132812 0.954102 Temperature 31.3265
+Angular velocity x y z 0 0.12207 0.12207 Temperature 31.3265
+Angle x y z -7.92664 2.29614 138.922 Temperature 31.3265
+Acceleration x y z -0.0375977 -0.133301 0.960938 Temperature 31.3176
+Angular velocity x y z 0 -0.0610352 -0.0610352 Temperature 31.3176
+Angle x y z -7.92664 2.29614 138.922 Temperature 31.3176
+Acceleration x y z -0.0390625 -0.132324 0.958008 Temperature 31.3147
+Angular velocity x y z 0 0 0 Temperature 31.3147
+Angle x y z -7.92664 2.29614 138.922 Temperature 31.3147
+Acceleration x y z -0.0375977 -0.133789 0.956543 Temperature 31.3176
+Angular velocity x y z -0.0610352 -0.0610352 0.0610352 Temperature 31.3176
+Angle x y z -7.92664 2.29614 138.922 Temperature 31.3176
+Acceleration x y z -0.0385742 -0.134277 0.958496 Temperature 31.3176
+Angular velocity x y z 0 -0.0610352 0 Temperature 31.3176
+Angle x y z -7.92664 2.29614 138.922 Temperature 31.3176
+Acceleration x y z -0.0380859 -0.132812 0.950684 Temperature 31.3235
+Angular velocity x y z 0.0610352 0 0 Temperature 31.3235
+Angle x y z -7.92664 2.29614 138.922 Temperature 31.3235
+Acceleration x y z -0.0375977 -0.132812 0.953125 Temperature 31.3265
+Angle x y z -7.92664 2.29065 138.922 Temperature 31.3265
+Angular velocity x y z 0 0.0610352 0 Temperature 31.3206
+Angle x y z -7.92664 2.29065 138.922 Temperature 31.3206
+Acceleration x y z -0.0390625 -0.132812 0.954102 Temperature 31.3206
+Angular velocity x y z 0 0 0 Temperature 31.3206
+Angle x y z -7.92664 2.29065 138.922 Temperature 31.3206
+Acceleration x y z -0.0405273 -0.131348 0.956543 Temperature 31.3265
+Angular velocity x y z 0 0.0610352 0 Temperature 31.3265
+Angle x y z -7.92664 2.29614 138.922 Temperature 31.3265
+Acceleration x y z -0.0385742 -0.131836 0.960449 Temperature 31.3382
+Angular velocity x y z 0.0610352 0.0610352 -0.0610352 Temperature 31.3382
+Acceleration x y z -0.0390625 -0.132812 0.956543 Temperature 31.3235
+Angle x y z -7.92664 2.29614 138.922 Temperature 31.3235
+Angular velocity x y z 0 0 0 Temperature 31.3176
+Angle x y z -7.92664 2.29614 138.922 Temperature 31.3176
+Acceleration x y z -0.0380859 -0.135742 0.959473 Temperature 31.3147
+Angular velocity x y z 0 0 0 Temperature 31.3147
+Angle x y z -7.92664 2.29614 138.922 Temperature 31.3147
+Acceleration x y z -0.0395508 -0.134277 0.956055 Temperature 31.3206
+Angular velocity x y z 0 0.0610352 0 Temperature 31.3206
+Angle x y z -7.92664 2.29614 138.922 Temperature 31.3206
+Acceleration x y z -0.0400391 -0.133789 0.955566 Temperature 31.3265
+Angular velocity x y z -0.0610352 0.0610352 0.0610352 Temperature 31.3265
+Angular velocity x y z 0 0.0610352 0 Temperature 31.3176
+Angle x y z -7.92664 2.30164 138.922 Temperature 31.3176
+Acceleration x y z -0.0395508 -0.131348 0.956055 Temperature 31.3147
+Angular velocity x y z 0 0.0610352 0.0610352 Temperature 31.3147
+Angle x y z -7.92664 2.30164 138.922 Temperature 31.3147
+Acceleration x y z -0.0395508 -0.131348 0.959961 Temperature 31.3265
+Angular velocity x y z -0.0610352 0.0610352 0.0610352 Temperature 31.3265
+Angle x y z -7.92664 2.30164 138.922 Temperature 31.3265
+Acceleration x y z -0.0390625 -0.133301 0.958984 Temperature 31.3324
+Angular velocity x y z -0.0610352 0.0610352 0.0610352 Temperature 31.3324
+Angle x y z -7.92664 2.30164 138.922 Temperature 31.3324
+Acceleration x y z -0.0375977 -0.132324 0.955566 Temperature 31.3265
+Angle x y z -7.92664 2.30164 138.922 Temperature 31.3265
+Angular velocity x y z -0.0610352 0 0 Temperature 31.3324
+Angle x y z -7.92664 2.30164 138.922 Temperature 31.3324
+Acceleration x y z -0.0380859 -0.131836 0.95752 Temperature 31.3118
+Angular velocity x y z -0.0610352 0.0610352 0 Temperature 31.3118
+Angle x y z -7.92664 2.30164 138.922 Temperature 31.3118
+Acceleration x y z -0.0390625 -0.133301 0.958008 Temperature 31.3176
+Angular velocity x y z 0 0.0610352 0 Temperature 31.3176
+Angle x y z -7.92664 2.30164 138.922 Temperature 31.3176
+Acceleration x y z -0.0400391 -0.133789 0.956055 Temperature 31.3088
+Angular velocity x y z -0.0610352 0.0610352 -0.0610352 Temperature 31.3088
+Angular velocity x y z 0 0.12207 0 Temperature 31.3265
+Angle x y z -7.92664 2.30713 138.922 Temperature 31.3265
+Acceleration x y z -0.0400391 -0.132812 0.956543 Temperature 31.3265
+Angular velocity x y z -0.0610352 0.12207 0 Temperature 31.3265
+Angle x y z -7.92664 2.30713 138.922 Temperature 31.3265
+Acceleration x y z -0.0385742 -0.133789 0.958496 Temperature 31.3206
+Angular velocity x y z -0.0610352 0.12207 -0.0610352 Temperature 31.3206
+Angle x y z -7.92664 2.30713 138.922 Temperature 31.3206
+Acceleration x y z -0.0395508 -0.132324 0.958496 Temperature 31.3118
+Angular velocity x y z -0.0610352 0.0610352 -0.0610352 Temperature 31.3118
+Angle x y z -7.92664 2.30713 138.922 Temperature 31.3118
+Acceleration x y z -0.0395508 -0.133301 0.956543 Temperature 31.3235
+Angle x y z -7.92664 2.30713 138.922 Temperature 31.3235
+Angular velocity x y z -0.0610352 0 0 Temperature 31.3147
+Angle x y z -7.92664 2.30713 138.922 Temperature 31.3147
+Acceleration x y z -0.0390625 -0.132324 0.956543 Temperature 31.3206
+Angular velocity x y z 0 0 0 Temperature 31.3206
+Angle x y z -7.92664 2.30713 138.922 Temperature 31.3206
+Acceleration x y z -0.0395508 -0.132812 0.95752 Temperature 31.3324
+Angular velocity x y z 0 0 0 Temperature 31.3324
+Angle x y z -7.92664 2.31262 138.922 Temperature 31.3324
+Acceleration x y z -0.0390625 -0.132812 0.95752 Temperature 31.3324
+Angular velocity x y z -0.0610352 0 0 Temperature 31.3324
+Acceleration x y z -0.0405273 -0.133789 0.959961 Temperature 31.3324
+Angle x y z -7.92664 2.31262 138.922 Temperature 31.3324
+Acceleration x y z -0.0366211 -0.134277 0.956543 Temperature 31.3324
+Angular velocity x y z -0.0610352 0 0 Temperature 31.3324
+Angle x y z -7.92664 2.30713 138.922 Temperature 31.3324
+Acceleration x y z -0.0395508 -0.135254 0.95752 Temperature 31.3382
+Angular velocity x y z -0.0610352 0 0 Temperature 31.3382
+Angle x y z -7.93213 2.30713 138.922 Temperature 31.3382
+Acceleration x y z -0.0390625 -0.133789 0.955566 Temperature 31.3412
+Angular velocity x y z -0.0610352 -0.0610352 0 Temperature 31.3412
+Angle x y z -7.93213 2.30713 138.922 Temperature 31.3412
+Acceleration x y z -0.0395508 -0.132812 0.95752 Temperature 31.3353
+Angular velocity x y z 0 -0.0610352 0 Temperature 31.3353
+Angular velocity x y z 0 0 0 Temperature 31.3294
+Angle x y z -7.93213 2.30713 138.922 Temperature 31.3294
+Acceleration x y z -0.0390625 -0.132324 0.955078 Temperature 31.3294
+Angular velocity x y z 0 -0.0610352 0 Temperature 31.3294
+Angle x y z -7.93213 2.30713 138.922 Temperature 31.3294
+Acceleration x y z -0.0405273 -0.133789 0.955566 Temperature 31.3265
+Angular velocity x y z 0 -0.0610352 0 Temperature 31.3265
+Angle x y z -7.93213 2.30713 138.922 Temperature 31.3265
+Acceleration x y z -0.0390625 -0.134277 0.956055 Temperature 31.3294
+Angular velocity x y z -0.0610352 -0.0610352 0.0610352 Temperature 31.3294
+Angle x y z -7.93213 2.30713 138.922 Temperature 31.3294
+Acceleration x y z -0.0375977 -0.133301 0.958008 Temperature 31.3294
+Angle x y z -7.93213 2.30713 138.922 Temperature 31.3294
+Acceleration x y z -0.0375977 -0.133789 0.955566 Temperature 31.3294
+Angular velocity x y z 0 0 0 Temperature 31.3294
+Angle x y z -7.93213 2.30713 138.922 Temperature 31.3294
+Acceleration x y z -0.0375977 -0.134277 0.958496 Temperature 31.3353
+Angular velocity x y z 0 0.0610352 0 Temperature 31.3353
+Angle x y z -7.93213 2.30713 138.922 Temperature 31.3353
+Acceleration x y z -0.0380859 -0.134277 0.958008 Temperature 31.3382
+Angular velocity x y z 0 0 0 Temperature 31.3382
+Angle x y z -7.93213 2.30713 138.922 Temperature 31.3382
+Acceleration x y z -0.0385742 -0.133301 0.956543 Temperature 31.3353
+Angular velocity x y z 0 0 0 Temperature 31.3353
+Angular velocity x y z 0 0 0 Temperature 31.3176
+Angle x y z -7.93213 2.30713 138.922 Temperature 31.3176
+Acceleration x y z -0.0395508 -0.131836 0.959473 Temperature 31.3147
+Angular velocity x y z 0 0 0 Temperature 31.3147
+Angle x y z -7.93213 2.30713 138.922 Temperature 31.3147
+Acceleration x y z -0.0375977 -0.132324 0.957031 Temperature 31.3206
+Angular velocity x y z 0 -0.0610352 0 Temperature 31.3206
+Angle x y z -7.93213 2.30164 138.922 Temperature 31.3206
+Acceleration x y z -0.0395508 -0.133789 0.956543 Temperature 31.3294
+Angular velocity x y z 0 0 0 Temperature 31.3294
+Angle x y z -7.93213 2.30164 138.922 Temperature 31.3294
+Acceleration x y z -0.0390625 -0.132324 0.954102 Temperature 31.3206
+Angle x y z -7.93213 2.30713 138.922 Temperature 31.3206
+Acceleration x y z -0.0380859 -0.132812 0.958008 Temperature 31.3206
+Angular velocity x y z 0 0.0610352 0 Temperature 31.3206
+Angle x y z -7.93213 2.30713 138.922 Temperature 31.3206
+Acceleration x y z -0.0390625 -0.131836 0.959961 Temperature 31.3324
+Angular velocity x y z 0 0 0 Temperature 31.3324
+Angle x y z -7.92664 2.30713 138.922 Temperature 31.3324
+Acceleration x y z -0.0385742 -0.133301 0.960449 Temperature 31.3324
+Angular velocity x y z 0 0 0 Temperature 31.3324
+Angle x y z -7.92664 2.30713 138.922 Temperature 31.3324
+Acceleration x y z -0.0395508 -0.132324 0.955566 Temperature 31.3265
+Angular velocity x y z 0 -0.0610352 0 Temperature 31.3265
+Angular velocity x y z 0.0610352 0 0 Temperature 31.3147
+Angle x y z -7.92664 2.30713 138.922 Temperature 31.3147
+Acceleration x y z -0.0385742 -0.131836 0.958008 Temperature 31.3176
+Angular velocity x y z 0 -0.0610352 -0.0610352 Temperature 31.3176
+Angle x y z -7.92664 2.30164 138.922 Temperature 31.3176
+Acceleration x y z -0.0390625 -0.133789 0.958984 Temperature 31.3324
+Angular velocity x y z 0 0 0 Temperature 31.3324
+Angle x y z -7.92664 2.30164 138.922 Temperature 31.3324
+Acceleration x y z -0.0375977 -0.133789 0.956055 Temperature 31.3176
+Angular velocity x y z 0 0 0 Temperature 31.3176
+Angle x y z -7.92664 2.30164 138.922 Temperature 31.3176
+Acceleration x y z -0.0356445 -0.133301 0.959473 Temperature 31.3294
+Angle x y z -7.92664 2.30164 138.922 Temperature 31.3294
+Angular velocity x y z 0 0 0 Temperature 31.3382
+Angle x y z -7.92664 2.30164 138.922 Temperature 31.3382
+Acceleration x y z -0.0371094 -0.133301 0.957031 Temperature 31.3382
+Angular velocity x y z -0.0610352 0 0 Temperature 31.3382
+Angle x y z -7.92664 2.30164 138.922 Temperature 31.3382
+Acceleration x y z -0.0395508 -0.133301 0.955078 Temperature 31.3265
+Angular velocity x y z 0 0 0 Temperature 31.3265
+Angle x y z -7.92664 2.30164 138.922 Temperature 31.3265
+Acceleration x y z -0.0375977 -0.132324 0.956055 Temperature 31.3118
+Angular velocity x y z 0 0 0 Temperature 31.3118
+Angle x y z -7.92664 2.30164 138.922 Temperature 31.3118
+Acceleration x y z -0.0395508 -0.133789 0.95752 Temperature 31.3118
+Angle x y z -7.92664 2.30164 138.922 Temperature 31.3118
+Acceleration x y z -0.0400391 -0.135254 0.959473 Temperature 31.3265
+Angular velocity x y z 0 0 0 Temperature 31.3265
+Angle x y z -7.92664 2.30164 138.922 Temperature 31.3265
+Acceleration x y z -0.0395508 -0.135254 0.959473 Temperature 31.3147
+Angular velocity x y z 0 -0.0610352 0 Temperature 31.3147
+Angle x y z -7.92664 2.30164 138.922 Temperature 31.3147
+Acceleration x y z -0.0385742 -0.133301 0.964355 Temperature 31.3118
+Angular velocity x y z 0 -0.12207 -0.0610352 Temperature 31.3118
+Angle x y z -7.92664 2.29614 138.922 Temperature 31.3118
+Acceleration x y z -0.0385742 -0.133789 0.952148 Temperature 31.3059
+Angular velocity x y z 0 0 0 Temperature 31.3059
+Angular velocity x y z 0.0610352 0 0 Temperature 31.3029
+Angle x y z -7.92664 2.30164 138.922 Temperature 31.3029
+Acceleration x y z -0.0395508 -0.133789 0.952148 Temperature 31.3147
+Angular velocity x y z -0.0610352 -0.0610352 0 Temperature 31.3147
+Angle x y z -7.92664 2.30164 138.922 Temperature 31.3147
+Acceleration x y z -0.0395508 -0.131348 0.95459 Temperature 31.3176
+Angular velocity x y z 0 0.12207 0.0610352 Temperature 31.3176
+Angle x y z -7.92664 2.30164 138.922 Temperature 31.3176
+Acceleration x y z -0.0390625 -0.133789 0.958008 Temperature 31.3265
+Angular velocity x y z -0.0610352 0 0 Temperature 31.3265
+Angle x y z -7.92664 2.30164 138.922 Temperature 31.3265
+Acceleration x y z -0.0410156 -0.135742 0.958984 Temperature 31.3235
+Angle x y z -7.93213 2.30164 138.922 Temperature 31.3235
+Angular velocity x y z 0 0.12207 0 Temperature 31.3206
+Angle x y z -7.93213 2.30713 138.922 Temperature 31.3206
+Acceleration x y z -0.0390625 -0.133789 0.958984 Temperature 31.3147
+Angular velocity x y z 0 -0.0610352 0 Temperature 31.3147
+Angle x y z -7.93213 2.30713 138.922 Temperature 31.3147
+Acceleration x y z -0.0380859 -0.133789 0.956055 Temperature 31.3353
+Angular velocity x y z 0 -0.0610352 0 Temperature 31.3353
+Angle x y z -7.93213 2.30164 138.922 Temperature 31.3353
+Acceleration x y z -0.0380859 -0.132812 0.95459 Temperature 31.3176
+Angular velocity x y z 0 -0.0610352 0 Temperature 31.3176
+Angle x y z -7.93213 2.30164 138.922 Temperature 31.3176
+Acceleration x y z -0.0395508 -0.132324 0.957031 Temperature 31.3265
+Angle x y z -7.93213 2.30164 138.922 Temperature 31.3265
+Acceleration x y z -0.0405273 -0.131836 0.960449 Temperature 31.3176
+Angular velocity x y z -0.0610352 -0.0610352 0 Temperature 31.3176
+Angle x y z -7.93213 2.30164 138.922 Temperature 31.3176
+Acceleration x y z -0.0385742 -0.134766 0.960449 Temperature 31.3206
+Angular velocity x y z 0 -0.12207 0 Temperature 31.3206
+Angle x y z -7.93213 2.30164 138.922 Temperature 31.3206
+Acceleration x y z -0.0385742 -0.134277 0.957031 Temperature 31.3176
+Angular velocity x y z 0 -0.0610352 0 Temperature 31.3176
+Angle x y z -7.93213 2.30164 138.922 Temperature 31.3176
+Acceleration x y z -0.0390625 -0.135254 0.95459 Temperature 31.3147
+Angular velocity x y z 0 -0.0610352 0 Temperature 31.3147
+Angular velocity x y z 0 0 0 Temperature 31.3206
+Angle x y z -7.93213 2.30164 138.922 Temperature 31.3206
+Acceleration x y z -0.0390625 -0.130859 0.954102 Temperature 31.3118
+Angular velocity x y z 0 0.0610352 0.0610352 Temperature 31.3118
+Angle x y z -7.93213 2.30164 138.922 Temperature 31.3118
+Acceleration x y z -0.0390625 -0.132812 0.958496 Temperature 31.3147
+Angular velocity x y z -0.0610352 0.0610352 0 Temperature 31.3147
+Angle x y z -7.93213 2.30164 138.922 Temperature 31.3147
+Acceleration x y z -0.0390625 -0.133789 0.959961 Temperature 31.3176
+Angular velocity x y z 0 0.0610352 0.0610352 Temperature 31.3176
+Angle x y z -7.93213 2.30164 138.922 Temperature 31.3176
+Acceleration x y z -0.0390625 -0.132324 0.95752 Temperature 31.3088
+Angle x y z -7.93213 2.30164 138.922 Temperature 31.3088
+Acceleration x y z -0.0390625 -0.133301 0.960938 Temperature 31.3176
+Angular velocity x y z -0.0610352 -0.183105 -0.0610352 Temperature 31.3176
+Angle x y z -7.93213 2.30164 138.922 Temperature 31.3176
+Acceleration x y z -0.0390625 -0.134277 0.942871 Temperature 31.3206
+Angular velocity x y z 0.0610352 0.244141 0.12207 Temperature 31.3206
+Angle x y z -7.93213 2.30164 138.922 Temperature 31.3206
+Acceleration x y z -0.0375977 -0.134277 0.961426 Temperature 31.3176
+Angular velocity x y z 0.0610352 0.0610352 0 Temperature 31.3176
+Angle x y z -7.93213 2.30164 138.922 Temperature 31.3176
+Acceleration x y z -0.0390625 -0.133789 0.957031 Temperature 31.3059
+Angular velocity x y z -0.12207 -0.183105 -0.0610352 Temperature 31.3059
+Acceleration x y z -0.0385742 -0.131348 0.951172 Temperature 31.3147
+Angle x y z -7.93213 2.30713 138.922 Temperature 31.3147
+Acceleration x y z -0.0405273 -0.134277 0.967773 Temperature 31.3294
+Angular velocity x y z -0.0610352 -0.183105 -0.183105 Temperature 31.3294
+Angle x y z -7.93213 2.30164 138.922 Temperature 31.3294
+Acceleration x y z -0.0405273 -0.134277 0.963379 Temperature 31.3412
+Angular velocity x y z 0 0.12207 0 Temperature 31.3412
+Angle x y z -7.93213 2.30713 138.922 Temperature 31.3412
+Acceleration x y z -0.0375977 -0.131348 0.955078 Temperature 31.3324
+Angular velocity x y z 0 0 0.0610352 Temperature 31.3324
+Angle x y z -7.93213 2.30713 138.922 Temperature 31.3324
+Acceleration x y z -0.0380859 -0.134766 0.958496 Temperature 31.3324
+Angular velocity x y z 0 -0.12207 -0.0610352 Temperature 31.3324
+Angular velocity x y z 0.0610352 0.0610352 0 Temperature 31.3235
+Angle x y z -7.93213 2.30713 138.922 Temperature 31.3235
+Acceleration x y z -0.0405273 -0.131836 0.957031 Temperature 31.3235
+Angular velocity x y z -0.0610352 -0.12207 0 Temperature 31.3235
+Angle x y z -7.93213 2.30713 138.922 Temperature 31.3235

@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -O3 -g    CMakeFiles/serialToImu.dir/src/serialToImu.cpp.o  -o serialToImu -rdynamic 
